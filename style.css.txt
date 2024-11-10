@@ -1,0 +1,46 @@
+.bo {
+    background-color: #48D1CC;
+    margin: 10px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 30px;
+    color:darkblue;
+    sans-serif: Arial;
+}
+
+.LIL{
+    font-size: 30px;
+}
+
+i {
+    font-size: 30px;
+}
+
+.image {
+    border: 1px solid darkblue;
+}
+
+b {
+    font-size: 30px;
+}
+
+a {
+    font-size: 30px;
+}
+
+.bro {
+     font-size: 30px;
+}
+
+.con {
+    border: 5px solid blue;
+    padding: 10px;
+}
+
+.up {
+    border: 5px solid blue;
+    padding: 10px;
+}
